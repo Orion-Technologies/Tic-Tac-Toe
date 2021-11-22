@@ -2,7 +2,7 @@
 The popular game made for me :D
 
 ## usage
-First, choose a square and do click on it, now is the turn of you oponent, keep it up until there is a winner.
+First, choose a square and click on it, now is the turn of you oponent, keep it up until there is a winner.
 Winner: The winner is who have 3 "X" or "O" in line, could be vertical, horizontal o diagonal.
 
 ## Installation
